@@ -22,7 +22,7 @@ Please be aware that the onboarding process, including the necessary screening, 
 However, during this period, you are more than welcome to actively interact with other volunteers on the [DIVD.community](https://DIVD.community) Slack. 
 This is a great way to start integrating into our community and begin making valuable connections. 
 
-** Thank you for your enthusiasm and commitment to our cause. **
+**Thank you for your enthusiasm and commitment to our cause.**
 We look forward to your active participation and are excited about the contributions you will bring to DIVD.
 
 ## TLDR
