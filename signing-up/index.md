@@ -29,7 +29,7 @@ This is a great way to start integrating into our community and begin making val
 We look forward to your active participation and are excited about the contributions you will bring to DIVD.
 
 ## TLDR
-1. :mortar_board: (GitHub, Slack, Discord) Finish the online [DIVD Introduction](https://divd.thinkific.com/courses/DIVD-Introduction).
+1. :mortar_board: Finish the online [DIVD Introduction](https://divd.thinkific.com/courses/DIVD-Introduction).
 2. :identification_card: Request the Certficate of Conduct online (you will receive an email from Justis).
 4. :spiral_calendar: [Plan a meeting](https://calendly.com/victor-gevers/divd-introductory-meeting).
 5. :speech_balloon: Meet the volunteers in the [DIVD.community](https://DIVD.community) Slack.
