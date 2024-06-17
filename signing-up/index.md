@@ -13,7 +13,7 @@ This platform is an excellent resource for connecting with fellow volunteers and
 
 To give you a comprehensive understanding of our work and mission at DIVD, we highly recommend that you take our brief introductory course available at [DIVD Introduction](https://divd.thinkific.com/courses/DIVD-Introduction). 
 This course will provide you with valuable insights and, upon completion, you will automatically receive an invitation for a **free** (no costs will be charged) [Certficate of Conduct](https://www.justis.nl/en/products/certificate-of-conduct) **to confirm your identity**. 
-Once you receive it via email, please **take a photo of the document and send it to VOG@divd.nl**. _After we have [validated](https://validatie.nl/) your certificate, we will securely delete the photo or PDF file._
+Once you receive it via email, please **take a photo of the paper document or upload to the PDF [here](https://form.jotform.com/241683944130355). _After we have [validated](https://validatie.nl/) your certificate, we will securely delete the photo or PDF file._
 
 Additionally, we encourage you to book an introductory meeting to further familiarize yourself with our organization. 
 You can schedule this meeting at your convenience via [Calendly](https://calendly.com/victor-gevers/divd-introductory-meeting).
@@ -27,9 +27,10 @@ We look forward to your active participation and are excited about the contribut
 
 ## TLDR
 1. Finish the online [DIVD Introduction](https://divd.thinkific.com/courses/DIVD-Introduction) 
-2. Request the Certficate of Conduct online (you will receive an email from Justis)
-3. [Plan a meeting](https://calendly.com/victor-gevers/divd-introductory-meeting) 
-4. Meet the volunteers in the [DIVD.community](https://DIVD.community) Slack.
-5. Receive your DIVD credentials (via Google Workspace)
-6. Read the DIVD Handbook (Link via Slack DM)
-7. Start contributing
+2. Request the Certficate of Conduct online (you will receive an email from Justis).
+4. [Plan a meeting](https://calendly.com/victor-gevers/divd-introductory-meeting) .
+5. Meet the volunteers in the [DIVD.community](https://DIVD.community) Slack.
+6. Upload your certificate of conduct [here](https://form.jotform.com/241683944130355).
+7. Receive your DIVD credentials (via Google Workspace).
+8. Read the DIVD Handbook (Link via Slack DM).
+9. Start contributing.
